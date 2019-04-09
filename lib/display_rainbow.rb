@@ -7,4 +7,3 @@ def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'viol
   puts "B: #{display_rainbow[4]}"
   puts "I: #{display_rainbow[5]}"
   puts "V: #{display_rainbow[6]}"
-  
